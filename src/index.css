@@ -25,3 +25,22 @@ span:last-child {
   color: red;
   cursor: pointer;
 }
+.userpage {
+  width: 50%;
+  margin: 0 auto;
+}
+.users {
+  width: 70%;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 10px;
+}
+.users p {
+  margin: 1px 0;
+  color: #000;
+  font-size: 20px;
+}
+.users p span {
+  color: blue;
+  text-decoration: underline;
+}

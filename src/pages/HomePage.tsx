@@ -1,9 +1,7 @@
-import { Navigation } from '../components/Navigation';
-
 export const HomePage = () => {
   return (
     <>
-      <Navigation />
+      <h1>Home page</h1>
     </>
   );
 };

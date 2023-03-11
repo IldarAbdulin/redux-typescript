@@ -17,6 +17,7 @@ export const TodoPage = () => {
   };
   return (
     <>
+      <h1>Todo page</h1>
       <NewTodoForm
         value={text}
         updateText={setText}
